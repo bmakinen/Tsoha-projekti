@@ -7,4 +7,4 @@ Sovelluksen ominaisuuksia:
 - Kirjoja voi hakea genren, kirjailijan tai kirjan nimen perusteella.
 - Jos haettua kirjaa ei löydy, käyttäjä voi lisätä sen sovellukseen.
 - Käyttäjä näkee myös listan kymmenestä parhaiten arvostellusta kirjasta.
-- Käyttäjä voi tehdä listan kirjoista, jotka haluaa tulevaisuudessa lukea.
+- Käyttäjä voi tallentaa omaan listaan kirjoja, jotka haluaa tulevaisuudessa lukea.
