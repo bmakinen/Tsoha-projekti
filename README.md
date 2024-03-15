@@ -6,5 +6,5 @@ Sovelluksen ominaisuuksia:
 - Käyttäjä voi antaa arvion (tähdet ja kommentti) kirjasta ja lukea muiden antamia arvosteluja.
 - Kirjoja voi hakea genren, kirjailijan tai kirjan nimen perusteella.
 - Jos haettua kirjaa ei löydy, käyttäjä voi lisätä sen sovellukseen.
-- Käyttäjä näkee myös listan kymmenestä parhaimmin arvostelluista kirjoista.
+- Käyttäjä näkee myös listan kymmenestä parhaiten arvostellusta kirjasta.
 - Käyttäjä voi tehdä listan kirjoista, jotka haluaa tulevaisuudessa lukea.
